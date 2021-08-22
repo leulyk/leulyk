@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Leul Yiheyis.
 - 👀 I’m a medical doctor.
-- 🌱 I am interested in computer science. I’m currently enrolled on the ALX software engineering program.
+- 🌱 I’m currently a software engineering student at ALX+Holberton school.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by my email leulykpro@gmail.com...
+- 📫 You can reach me by my email leulykpro@gmail.com.
 
 <!---
 leulyk/leulyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
