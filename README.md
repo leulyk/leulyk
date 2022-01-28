@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leul Yiheyis.
 - 👀 I’m a medical doctor.
-- 🌱 I’m currently a software engineering student at ALX+Holberton school.
+- 🌱 I’m currently a software engineering student at ALX.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by my email leulykpro@gmail.com.
 
