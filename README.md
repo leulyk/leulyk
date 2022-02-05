@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leulyk&label=Profile%20views&color=0e75b6&style=flat" alt="leulyk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leulyk" alt="leulyk" /></a> </p>
-
 - 📫 How to reach me **leulykpro@gmail.com**
 
 ### Blogs posts
@@ -14,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/leulyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leulyk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leul-yiheyis-a165a394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leul-yiheyis-a165a394" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leul-yiheyis-a165a394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leul-yiheyis-a165a394" height="30" width="40" /></a>
 <a href="https://medium.com/@leulykpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@leulykpro" height="30" width="40" /></a>
 </p>
 
