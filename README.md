@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What happens when you type https://www.google.com in your browser and press Enter](https://medium.com/@leulykpro/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-c90c5ba50181?source=rss-3cb5ab9aab37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
