@@ -4,17 +4,15 @@
 
 - 🌱 I'm currently learning **Rust**
 
-- 🤝 I'm looking for help with **learning distributed systems**
-
 - 📫 How to reach me **leulykpro@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/12LkfTc6KmWvIWbmwK-3OZlkWCqQ9jY5i/view?usp=drive_link](https://drive.google.com/file/d/12LkfTc6KmWvIWbmwK-3OZlkWCqQ9jY5i/view?usp=drive_link)**
+- 📄 [Know about my experiences](https://drive.google.com/file/d/12LkfTc6KmWvIWbmwK-3OZlkWCqQ9jY5i/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/leulyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="leulyk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leulyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leulyk" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/leulyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leulyk" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/leulyk" target="blank"><img align="center" src="https://raw.githubusercontent.cMy om/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leulyk" height="30" width="40" /></a>
 <a href="https://leetcode.com/leulykpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leulykpro" height="30" width="40" /></a>
 </p>
 
